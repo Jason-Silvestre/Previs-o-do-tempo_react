@@ -1,0 +1,2 @@
+[0102/161421.223:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[0103/113228.563:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Fabrica02\AppData\Local\AVG\Browser\User Data\Crashpad\attachments\b987bc52-c5f2-4824-83e7-aa327c275c0b: O sistema não pode encontrar o caminho especificado. (0x3)
